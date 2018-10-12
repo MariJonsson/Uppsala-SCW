@@ -1,7 +1,7 @@
 # uppsala-workshop
 Repository to save my files from SWC workshop
 
-Please, try our code by clicking on: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/MariJonsson/Uppsala-SCW/tree/master/master)
+Please, try our code by clicking on: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/MariJonsson/Uppsala-SCW/)
 
 This repository is publicly available. See LICENSE file for conditions.
 
